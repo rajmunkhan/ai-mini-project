@@ -1,2 +1,2 @@
 # heart-disease-prediction
-A ML algorithm is used to predict the heart disease.
+An ML algorithm is used to predict heart disease.
